@@ -1,5 +1,8 @@
 # 100 Days Of Code - Log
 
+###day 1: july 12, 2020
+**todays progress**: forked the repository; go through the basics of html/css. never hurts to have a refresher about accessibility and stuff
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
