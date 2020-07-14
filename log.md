@@ -12,3 +12,5 @@ took about 1 hour to set up this repository, read some stuff, and go through bas
       and :root = available everywhere, useful for setting up defaults for inheritance. is a pseudoclass
       I've been meaning to look up these 2 things for a while so it was handy to have here!
       
+### day 2: 7.13.2020
+**progress**: went through Applied Visual Design section. didn't quite take an hour but i'm tired anyway. learned some cool stuff with gradients and animations
