@@ -14,3 +14,6 @@ took about 1 hour to set up this repository, read some stuff, and go through bas
       
 ### day 2: 7.13.2020
 **progress**: went through Applied Visual Design section. didn't quite take an hour but i'm tired anyway. learned some cool stuff with gradients and animations
+
+### 7/13, 7/14, 7/15
+i spent all work day in css, html and vue code and couldn't sit in front of the computer longer. reinforced learning in componentizing vue setup; found a neat, detailed sass mixin for media queries, and  learnedsomething else sass i don't recall at the moment, lol
